@@ -1,0 +1,35 @@
+
+#cabecera {
+  background-color: pink;
+  padding: 20px;
+  text-align: center;
+}
+
+#cabecera img {
+  margin-top: 30px; 
+  margin-bottom: 20px; 
+  margin-left: 30px; 
+
+}
+
+
+h1 {
+  border: white 5px double;
+}
+
+
+h2 {
+    background-color: pink; 
+    padding: 8px; 
+    border-radius: 10px; 
+    margin-bottom: 10px; 
+    max-width: 400px;
+
+}
+
+
+footer {
+  background-color: pink;
+  padding: 10px;
+  text-align: center;
+}
